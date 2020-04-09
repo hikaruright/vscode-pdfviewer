@@ -1,9 +1,9 @@
 {
   "name": "pdf",
-  "displayName": "vscode-pdf",
+  "displayName": "vscode-pdf(Multi-language support)",
   "description": "Display pdf file in VSCode.",
   "version": "0.5.0",
-  "publisher": "tomoki1207",
+  "publisher": "takanotume24",
   "engines": {
     "vscode": "^1.25.0"
   },
@@ -17,10 +17,10 @@
   "icon": "vscode-pdf.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomoki1207/vscode-pdfviewer.git"
+    "url": "https://github.com/takanotume24/vscode-pdfviewer.git"
   },
   "bugs": {
-    "url": "https://github.com/tomoki1207/vscode-pdfviewer/issues"
+    "url": "https://github.com/takanotume24/vscode-pdfviewer/issues"
   },
   "activationEvents": [
     "onLanguage:pdf",
