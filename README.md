@@ -1,4 +1,4 @@
-# pdf
+# pdf (Multi-language support)
 
 Display pdf in VSCode.
 
