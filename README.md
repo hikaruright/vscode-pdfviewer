@@ -6,7 +6,7 @@ This is a fork of the original ([vscode-pdf - Visual Studio Marketplace](https:/
 Fixed a bug in which PDFs containing Japanese and Chinese are not displayed.
 I've also updated the pdf.js.
 
-![screenshot](https://raw.githubusercontent.com/takanotume24/vscode-pdfviewer/images/screenshot-japanese-pdf.png)
+![screenshot](https://raw.githubusercontent.com/takanotume24/vscode-pdfviewer/master/images/screenshot-japanese-pdf.png)
 
 ## Known Issues
 
