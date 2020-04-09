@@ -2,8 +2,7 @@ name: VSCode Extension CI
 
 on: 
   push:
-    branches:
-      - master
+
 
 jobs:
   build:
@@ -21,8 +20,6 @@ jobs:
       run: yarn
     - name : Bulid
       run: vsce package --yarn -o ./out.vsix
-    - name : Upload to Marketplace
-      run: vsce publish patch -p {{secrets.PUBLISH_TOKEN}} --yarn 
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1.0.0
